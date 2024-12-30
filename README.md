@@ -4,8 +4,8 @@ The application includes a search functionality with sorting and pagination capa
 The APIs are tested and documented using Swagger API.
 
 # Technologies
-Java
-SpringBoot
-MongoDB ATLAS
-Swagger API
+Java,
+SpringBoot,
+MongoDB ATLAS,
+Swagger API,
 Restful API's
